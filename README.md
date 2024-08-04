@@ -7,7 +7,10 @@
 
 <br>
 
-<img src = "https://skillicons.dev/icons?i=,typescript,astro,react,nodejs,scss,vscode,vercel,github&perline=25">
+<img src = "https://skillicons.dev/icons?i=,javascript,typescript,astro,react,nodejs,scss,css,markdown,vscode,vercel,github&perline=25">
+<br />
+<br />
+<img src = "https://wakatime.com/badge/github/Zemerik/ZemDocs.svg" target = "_blank">
 
 </p>
 
@@ -26,6 +29,22 @@
 ## ❗ About:
 
 ZemDocs is your comprehensive guide to all Zem projects, offering detailed documentation on how to discover, showcase, and post with ease. Whether you're looking to contribute, customize, or simply understand the ins and outs of each project, ZemDocs provides step-by-step instructions and valuable insights. Stay connected with the developer community through our well-organized and accessible resources. Empower your development journey with ZemDocs, the essential companion for every Zem user.
+
+## 📁 Current Docs:
+
+- [ZemPosts](https://github.com/Zemerik/ZemPosts)
+    - [Introduction](https://zemdocs.vercel.app/en/zemposts/introduction)
+    - [v1.0.1 (Latest)](https://zemdocs.vercel.app/en/zemposts/v101)
+    - [Contributing](https://zemdocs.vercel.app/en/zemposts/contributing)
+- [ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+    - [Introduction](https://zemdocs.vercel.app/en/zemshowcase/introduction)
+    - [v2.0.1 (Latest)](https://zemdocs.vercel.app/en/zemshowcase/v201)
+    - [v1.0.1](https://zemdocs.vercel.app/en/zemshowcase/v101)
+    - [Contributing](https://zemdocs.vercel.app/en/zemshowcase/contributing)
+- [ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+    - [Introduction](https://zemdocs.vercel.app/en/zemprofiles/introduction)
+    - [v1.0.1 (Latest)](https://zemdocs.vercel.app/en/zemprofiles/v101)
+    - [Contributing](https://zemdocs.vercel.app/en/zemprofiles/contributing)
 
 ## ⭐ Features:
 
@@ -80,12 +99,6 @@ For any kind of support or inforrmation, you are free to join our **Discord Serv
 <a href = "https://discord.gg/UF9KsmuGbr">
   <img src = "https://invidget.switchblade.xyz/UF9KsmuGbr">
 </a>
-
-## 🥳 Contributors:
-
-Thanks to all Contributors!
-
-![Contributors](https://contrib.rocks/image?repo=Zemerik/Zemshowcase)
 
 <h1 align = "center">
   Thanks for Visiting🙏
