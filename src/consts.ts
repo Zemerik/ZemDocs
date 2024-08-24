@@ -46,7 +46,8 @@ export const SIDEBAR: Sidebar = {
 		],
 		'ZemProfiles': [
 			{ text: 'Introduction', link: 'en/zemprofiles/introduction' },
-			{ text: 'v1.0.1 (Latest)', link: 'en/zemprofiles/v101' },
+			{ text: 'v1.0.1', link: 'en/zemprofiles/v101' },
+			{ text: 'v2.0.1', link: 'en/zemprofiles/v201' },
 			{ text: 'Contributing', link: 'en/zemprofiles/contributing' },
 		]
 	},
