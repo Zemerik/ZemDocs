@@ -15,6 +15,9 @@ ZemProfiles stands as an open-source platform, providing users with the opportun
 ## ⛏️ Technologies:
 
 - [x] Javascript
+- [x] Typescript
+- [x] Astro
+- [x] Tailwind
 - [x] NodeJS
 - [x] ReactJS
 - [x] CSS
@@ -49,7 +52,7 @@ npm i
 4. Start the `Development Server` through the following `command`:
 
 ```bash
-npm start
+npm run dev
 ```
 
 <h1 align = "center">
