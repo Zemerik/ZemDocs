@@ -34,7 +34,8 @@ ZemDocs is your comprehensive guide to all Zem projects, offering detailed docum
 
 - [ZemPosts](https://github.com/Zemerik/ZemPosts)
     - [Introduction](https://zemdocs.vercel.app/en/zemposts/introduction)
-    - [v1.0.1 (Latest)](https://zemdocs.vercel.app/en/zemposts/v101)
+    - [v1.1.0-beta.1 (Latest)](https://zemdocs.vercel.app/en/zemposts/v110beta1)
+    - [v1.0.1](https://zemdocs.vercel.app/en/zemposts/v101)
     - [Contributing](https://zemdocs.vercel.app/en/zemposts/contributing)
 - [ZemShowcase](https://github.com/Zemerik/ZemShowcase)
     - [Introduction](https://zemdocs.vercel.app/en/zemshowcase/introduction)

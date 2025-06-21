@@ -6,7 +6,7 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
 	image: {
-		src: '../public/logo.png',
+		src: '/logo.png',
 		alt:
 			'astro logo on a starry expanse of space,' +
 			' with a purple saturn-like planet floating in the right foreground',
@@ -35,7 +35,8 @@ export const SIDEBAR: Sidebar = {
 		],
 		'ZemPosts': [
 			{ text: 'Introduction', link: 'en/zemposts/introduction' },
-			{ text: 'v2.0.1 (Latest)', link: 'en/zemposts/v101' },
+			{ text: 'v1.1.0-beta.1 (Latest)', link: 'en/zemposts/v110beta1' },
+			{ text: 'v1.0.1', link: 'en/zemposts/v101' },
 			{ text: 'Contributing', link: 'en/zemposts/contributing' },
 		],
 		'ZemShowcase': [

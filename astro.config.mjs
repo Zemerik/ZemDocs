@@ -11,4 +11,9 @@ export default defineConfig({
 		react(),
 	],
 	site: `https://astro.build`,
+	vite: {
+		ssr: {
+			noExternal: ['@docsearch/css'],
+		},
+	},
 });

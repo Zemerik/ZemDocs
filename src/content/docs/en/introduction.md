@@ -14,5 +14,5 @@ description: "Docs intro"
 </p>
 
 <p align = "center">
-    <img src = "/public/logo.png" />
+    <img src = "/logo.png" />
 </p>
